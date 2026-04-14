@@ -44,20 +44,7 @@ No backend. No API keys. Everything runs in the browser using Puter.js.
 | Zustand | State management |
 | Vite | Dev server and build tool |
 
----
 
-## Running locally
-
-```bash
-git clone https://github.com/anugrahiar/AI-RESUME-ANALYZER-RESUMEIQ-.git
-cd resumeiq
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173` and you're good to go.
-
----
 
 <div align="center">
   Made by <a href="https://github.com/anugrahiar"><b>Anugrah Rai</b></a>
